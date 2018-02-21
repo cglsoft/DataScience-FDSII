@@ -1,9 +1,9 @@
 # Data Science Foundations II - Nanodegree Program
 
 
-# [Week 1 - Machine Learn and Data Science]()
+# [Week 1 - Machine Learn and Data Science]
 
-## [Lesson 2: Introdução a Data Science]()
+## [Lesson 2: Introdução a Data Science]
 
 
 | Quiz   |  Python |
@@ -12,7 +12,7 @@
 | 19 : Brincando com o Pandas - indexando dataframes  | 19_indexando_frames.py |
 | 22 : Média de medalhas de ouro, prata e bronze  | 22_avg_medal_count.py  |
 
-## [Lesson 3: Data Wragling]() 
+## [Lesson 3: Data Wragling]
 
 | Quiz   |  Python |
 | ------------- |  ------------- 
@@ -22,15 +22,15 @@
 | 29 : API Exercise  | 29_api_get_request.py  |
 | 39 : Imputation Exercise  | 39_imputation.py  |
 
-## [Lesson 4: Machine Learn Introduction]() 
+## [Lesson 4: Machine Learn Introduction]
 
 | Quiz   |  Python |
 | ------------- |  ------------- 
 | 15 : Linear Regression | 15_linear_regression.py  |
 
-# [Week 4 - BigData and Map Reduce]()
+# [Week 4 - BigData and Map Reduce]
 
-## [Lesson 6: Project]()
+## [Lesson 6: Project]
 
 | Quiz   |  Python Mapper And Reducer |
 | ------------- |  ------------- 
