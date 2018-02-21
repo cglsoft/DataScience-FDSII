@@ -1,9 +1,9 @@
 # Data Science Foundations II - Nanodegree Program
 
 
-# [Week 1 - Machine Learn and Data Science](ProblemStatement1)
+# [Week 1 - Machine Learn and Data Science]()
 
-## [Lesson 2: Introdução a Data Science](ProblemStatement1)
+## [Lesson 2: Introdução a Data Science]()
 
 
 | Quiz   |  Python |
@@ -12,7 +12,7 @@
 | 19 : Brincando com o Pandas - indexando dataframes  | 19_indexando_frames.py |
 | 22 : Média de medalhas de ouro, prata e bronze  | 22_avg_medal_count.py  |
 
-## [Lesson 3: Data Wragling](ProblemStatement1) 
+## [Lesson 3: Data Wragling]() 
 
 | Quiz   |  Python |
 | ------------- |  ------------- 
@@ -22,15 +22,15 @@
 | 29 : API Exercise  | 29_api_get_request.py  |
 | 39 : Imputation Exercise  | 39_imputation.py  |
 
-## [Lesson 4: Machine Learn Introduction](ProblemStatement1) 
+## [Lesson 4: Machine Learn Introduction]() 
 
 | Quiz   |  Python |
 | ------------- |  ------------- 
 | 15 : Linear Regression | 15_linear_regression.py  |
 
-# [Week 4 - BigData and Map Reduce](ProblemStatement1)
+# [Week 4 - BigData and Map Reduce]()
 
-## [Lesson 6: Project](ProblemStatement1)
+## [Lesson 6: Project]()
 
 | Quiz   |  Python Mapper And Reducer |
 | ------------- |  ------------- 
@@ -70,7 +70,7 @@ hadoop jar ///usr/lib/hadoop-mapreduce/hadoop-streaming-2.6.0-cdh5.12.0.jar -fil
 
 
 
-## [Project I - Analyzing NY Subway Data](ProblemStatement1)
+## [Project I - Analyzing NY Subway Data](https://github.com/cglsoft/DataScience-FDSII/blob/master/Semana4/Projeto/analyzing-subway-data-ndfdsi.ipynb)
 
 ### Visão geral do projeto
 Neste projeto, você analisa os dados do metrô de NY e descobre se mais pessoas andam de metrô quando está chovendo, comparado com quando não está.
@@ -93,7 +93,7 @@ Você será exposto a - e aprenderá - habilidades de ciência de dados fundamen
 
 ***Jupyter Notebook*** 
 
-Referëncia = analyzing-subway-data-ndfdsi.ipynb
+Referëncia = analyzing-subway-data-ndfdsi.ipynb(https://github.com/cglsoft/DataScience-FDSII/blob/master/Semana4/Projeto/analyzing-subway-data-ndfdsi.ipynb)
 
 
 ## License
